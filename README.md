@@ -17,4 +17,5 @@ The following required functionality is complete:
 VIDEO WALKTHROIGH:
 Here's a walkthrough of implemented user stories:
 
-https://recordit.co/cbWXn7Dabr
+http://g.recordit.co/Q2kHF5dIQL.gif
+
