@@ -19,6 +19,7 @@
 		CF5BA1D5251C70CE0052F7E3 /* FlixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5BA1D4251C70CE0052F7E3 /* FlixUITests.swift */; };
 		CF5BA1E3251C71DC0052F7E3 /* MovieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5BA1E2251C71DC0052F7E3 /* MovieViewController.swift */; };
 		CF5BA1E5251E41E90052F7E3 /* movieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5BA1E4251E41E90052F7E3 /* movieCell.swift */; };
+		CF6E30BB252586F300C4CD01 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF6E30BA252586F300C4CD01 /* MovieDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		CF5BA1D6251C70CE0052F7E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF5BA1E2251C71DC0052F7E3 /* MovieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewController.swift; sourceTree = "<group>"; };
 		CF5BA1E4251E41E90052F7E3 /* movieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = movieCell.swift; sourceTree = "<group>"; };
+		CF6E30BA252586F300C4CD01 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		FDCDD33D24D004E533B93388 /* Pods-Flix-FlixUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flix-FlixUITests.debug.xcconfig"; path = "Target Support Files/Pods-Flix-FlixUITests/Pods-Flix-FlixUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -149,6 +151,7 @@
 				CF5BA1C0251C70CE0052F7E3 /* Info.plist */,
 				CF5BA1E2251C71DC0052F7E3 /* MovieViewController.swift */,
 				CF5BA1E4251E41E90052F7E3 /* movieCell.swift */,
+				CF6E30BA252586F300C4CD01 /* MovieDetailsViewController.swift */,
 			);
 			path = Flix;
 			sourceTree = "<group>";
@@ -410,6 +413,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF6E30BB252586F300C4CD01 /* MovieDetailsViewController.swift in Sources */,
 				CF5BA1B3251C70CB0052F7E3 /* AppDelegate.swift in Sources */,
 				CF5BA1B5251C70CB0052F7E3 /* SceneDelegate.swift in Sources */,
 				CF5BA1E5251E41E90052F7E3 /* movieCell.swift in Sources */,
