@@ -105,6 +105,5 @@ class MovieViewController: UIViewController, UITableViewDataSource, UITableViewD
         
         
     }
-    
 
 }

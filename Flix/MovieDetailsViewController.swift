@@ -10,6 +10,7 @@ import UIKit
 import AlamofireImage
 
 class MovieDetailsViewController: UIViewController {
+  
     
     @IBOutlet weak var backdropView: UIImageView!
     @IBOutlet weak var posterView: UIImageView!
@@ -23,6 +24,8 @@ class MovieDetailsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        
+        
         // Do any additional setup after loading the view.
        
         
@@ -56,5 +59,6 @@ class MovieDetailsViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+
 
 }
